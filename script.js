@@ -1,5 +1,4 @@
 //your JS code here. If required.
-//your JS code here. If required.
 // function displayTimer(){
 // 	var date=new Date();
 // 	var time=date.toLocaleTimeString();
